@@ -25,6 +25,6 @@
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
-    "@rndi/makedropdown": "file:../makeDropDown"
+    "@rndi/makedropdown": "^1.3.0"
   }
 }
